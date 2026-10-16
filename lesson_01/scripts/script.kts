@@ -1,6 +1,1 @@
-// A plain script: shared functions and classes for other scripts, or a one-off action.
-// Run it with /hollowengine scripting run scripts/script.kts
 
-fun greeting(name: String) = "Hello, $name!"
-
-println(greeting("HollowEngine"))
